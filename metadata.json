@@ -1,0 +1,7 @@
+{
+  "name": "Imagica Health Scan",
+  "description": "An enterprise-grade healthcare platform for diagnostic services, test booking, report management, and investor relations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
